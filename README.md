@@ -1,2 +1,2 @@
 # maven-quick-start
-sample project tu use with Maven Quick Start project
+sample project to use with Maven Quick Start project
